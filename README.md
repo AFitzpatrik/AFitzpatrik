@@ -7,7 +7,7 @@ I focus on improving quality assurance processes and exploring automation tools 
 </p>
 
 <p align="center">
-You can check out my mini project, created while learning <strong>Python</strong>, <strong>MySQL</strong>, <strong>CSS</strong>, <strong>HTML</strong>, and <strong>JavaScript</strong>, here on my profile!
+You can check out my projects, created while learning <strong>Python</strong>, <strong>MySQL</strong>, <strong>CSS</strong>, <strong>HTML</strong>, and <strong>JavaScript</strong>, here on my profile!
 </p>
 
 <ul>
