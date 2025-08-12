@@ -44,10 +44,3 @@ You can check out my mini project, created while learning <strong>Python</strong
   </a>
 </p>
 
-<h2 align="left">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
